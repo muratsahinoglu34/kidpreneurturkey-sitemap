@@ -1,237 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <url><loc>https://kidpreneur.com.tr/</loc></url>
+  <url><loc>https://kidpreneur.com.tr/pricing</loc></url>
+  <url><loc>https://kidpreneur.com.tr/kayit</loc></url>
+  <url><loc>https://kidpreneur.com.tr/atolyeler</loc></url>
+  <url><loc>https://kidpreneur.com.tr/kvkk</loc></url>
+  <url><loc>https://kidpreneur.com.tr/flash-cards</loc></url>
+  <url><loc>https://kidpreneur.com.tr/blog</loc></url>
+  <url><loc>https://kidpreneur.com.tr/araclar</loc></url>
+  <url><loc>https://kidpreneur.com.tr/support</loc></url>
+  <url><loc>https://kidpreneur.com.tr/parents</loc></url>
 
-<url>
-  <loc>https://kidpreneurturkey.com/</loc>
-  <lastmod>2024-12-02T12:16:12+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/toolbox</loc>
-  <lastmod>2024-12-02T12:16:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/components</loc>
-  <lastmod>2024-12-02T12:16:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/inspiration</loc>
-  <lastmod>2024-12-02T12:16:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/signin</loc>
-  <lastmod>2024-12-02T12:16:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/membership</loc>
-  <lastmod>2024-12-02T12:16:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/toolbox/canva</loc>
-  <lastmod>2024-12-02T12:16:11+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/toolbox/midjourney</loc>
-  <lastmod>2024-12-02T12:16:11+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/toolbox/nightcafe-studio</loc>
-  <lastmod>2024-12-02T12:16:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/toolbox/tome</loc>
-  <lastmod>2024-12-02T12:16:11+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/components/yemek-planlay%C4%B1c%C4%B1-al%C4%B1%C5%9Fveri%C5%9F</loc>
-  <lastmod>2024-12-02T12:16:11+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/components/evcil-hayvan-hizmetleri</loc>
-  <lastmod>2024-12-02T12:16:11+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/components/bah%C3%A7e-bak%C4%B1m%C4%B1</loc>
-  <lastmod>2024-12-02T12:16:11+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/components/yuz-boyamaci-ve-balon-sanatcisi</loc>
-  <lastmod>2024-12-02T12:16:11+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/inspiration/youtube-deneme</loc>
-  <lastmod>2024-12-02T12:16:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/inspiration/zorbal%C4%B1k-kibarl%C4%B1k</loc>
-  <lastmod>2024-12-02T12:16:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/review</loc>
-  <lastmod>2024-12-02T12:16:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/support</loc>
-  <lastmod>2024-12-02T12:16:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/signup</loc>
-  <lastmod>2024-12-02T12:16:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/reset-password</loc>
-  <lastmod>2024-12-02T12:16:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/g%C3%B6r%C3%BCnt%C3%BC-olu%C5%9Fturma</loc>
-  <lastmod>2024-12-02T12:16:11+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/tasar%C4%B1m-ve-g%C3%B6r%C3%BCnt%C3%BC-olu%C5%9Fturma</loc>
-  <lastmod>2024-12-02T12:16:11+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/sunum-olu%C5%9Fturma</loc>
-  <lastmod>2024-12-02T12:16:11+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/z</loc>
-  <lastmod>2024-12-02T12:16:11+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/a</loc>
-  <lastmod>2024-12-02T12:16:11+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/b</loc>
-  <lastmod>2024-12-02T12:16:11+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/c</loc>
-  <lastmod>2024-12-02T12:16:11+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/10</loc>
-  <lastmod>2024-12-02T12:16:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/9</loc>
-  <lastmod>2024-12-02T12:16:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/8</loc>
-  <lastmod>2024-12-02T12:16:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/yarat%C4%B1c%C4%B1-kafalar</loc>
-  <lastmod>2024-12-02T12:16:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/7</loc>
-  <lastmod>2024-12-02T12:16:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/6</loc>
-  <lastmod>2024-12-02T12:16:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/5</loc>
-  <lastmod>2024-12-02T12:16:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/4</loc>
-  <lastmod>2024-12-02T12:16:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/mutfaktaki-%C5%9Fef</loc>
-  <lastmod>2024-12-02T12:16:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/koca-y%C3%BCrekliler</loc>
-  <lastmod>2024-12-02T12:16:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/d%C4%B1%C5%9F-mekanc%C4%B1lar</loc>
-  <lastmod>2024-12-02T12:16:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/app</loc>
-  <lastmod>2024-12-02T12:16:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/typography</loc>
-  <lastmod>2024-12-02T12:16:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/web-design</loc>
-  <lastmod>2024-12-02T12:16:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/branding</loc>
-  <lastmod>2024-12-02T12:16:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/illustration</loc>
-  <lastmod>2024-12-02T12:16:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/etkile%C5%9Fimli-video</loc>
-  <lastmod>2024-12-02T12:16:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kidpreneurturkey.com/blog/t%C3%BCrkiye-de-e%C4%9Fitimi-ve-giri%C5%9Fimcili%C4%9Fi-yeniden-d%C3%BC%C5%9F%C3%BCnmek</loc>
-  <lastmod>2024-12-02T12:16:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+  <url><loc>https://kidpreneur.com.tr/araclar/opusclip</loc></url>
+  <url><loc>https://kidpreneur.com.tr/araclar/veed-io</loc></url>
+  <url><loc>https://kidpreneur.com.tr/araclar/runway</loc></url>
+  <url><loc>https://kidpreneur.com.tr/araclar/lumen5</loc></url>
+  <url><loc>https://kidpreneur.com.tr/araclar/fliki</loc></url>
+  <url><loc>https://kidpreneur.com.tr/araclar/descript</loc></url>
+  <url><loc>https://kidpreneur.com.tr/araclar/midjourney</loc></url>
+  <url><loc>https://kidpreneur.com.tr/araclar/canva</loc></url>
+  <url><loc>https://kidpreneur.com.tr/araclar/nightcafe-studio</loc></url>
+  <url><loc>https://kidpreneur.com.tr/araclar/tome</loc></url>
 
+  <url><loc>https://kidpreneur.com.tr/video-olusturma</loc></url>
+  <url><loc>https://kidpreneur.com.tr/icerik-uretimi</loc></url>
+  <url><loc>https://kidpreneur.com.tr/eglenceli-videolar</loc></url>
+  <url><loc>https://kidpreneur.com.tr/goruntu-olusturma</loc></url>
+  <url><loc>https://kidpreneur.com.tr/tasarim-ve-goruntu-olusturma</loc></url>
+  <url><loc>https://kidpreneur.com.tr/sunum-olusturma</loc></url>
+
+  <url><loc>https://kidpreneur.com.tr/blog/yapay-zeka-ile-cocuklarla-kaliteli-zaman-gecirmenin-10-yolu</loc></url>
+  <url><loc>https://kidpreneur.com.tr/blog/cocuklar-icin-yapay-zeka-araclariyla-yaraticiligi-artirma-yontemleri</loc></url>
+  <url><loc>https://kidpreneur.com.tr/blog/cocuklarin-yapay-zeka-egitimi-yolculugunda-nasil-destek-olunur</loc></url>
+  <url><loc>https://kidpreneur.com.tr/blog/cocuklara-yapay-zeka-ogretirken-etik-degerler</loc></url>
+  <url><loc>https://kidpreneur.com.tr/blog/cocuklar-icin-egitimi-yeniden-tasarliyoruz</loc></url>
+  <url><loc>https://kidpreneur.com.tr/blog/egitimde-donusum</loc></url>
+  <url><loc>https://kidpreneur.com.tr/blog/cocugunuz-yapay-zekaya-merhaba-desin</loc></url>
+  <url><loc>https://kidpreneur.com.tr/blog/turkiye-deki-egitimi-sistemi-uzerine-bir-beyin-firtinasi</loc></url>
 
 </urlset>
